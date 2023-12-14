@@ -177,4 +177,6 @@ Close the HTML structure.
 ## RESULT:
 Thus the book-cover-design has been successfully created using HTML and CSS.
 
-
+## DEVELOPED BY: D.B.V.SAI GANESH
+## REGISTER NO: 212223240025
+## DEPT: B.Tech(AI&ML)
